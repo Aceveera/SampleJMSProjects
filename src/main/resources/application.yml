@@ -2,8 +2,15 @@ ems:
   server: localhost
   port: 7222
   user: admin
-  password: password
+  password: passwordwordpassrtoldnewt
   queue: test.queue
   retryinterval: 1000
   retrycount: 3
   timeout: 30000
+emsB:
+  server: localhost
+  port: 7223
+  user: admin
+  password: passwordfthujnbvfrtiomnhg
+  queue: test.queueB
+  topic: test.topicB
